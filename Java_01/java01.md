@@ -15,13 +15,13 @@
 
 해당 프로그램은 JET BRAINS 사의 IntelliJ IDEA를 사용하기에, [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)로 들어가서 다운로드 버튼을 누를시 다음과 같은 화면이 나온다.
 
-<img src="C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img1.PNG" style="zoom:75%;" />
+<img src=".\img\img1.PNG" style="zoom:75%;" />
 
 
 
 아래와 같이 두개의 버전이 나오는데, 나는 Spring, Java EE, JS, HTML, CSS, DB tools 등을 사용해야 하기에, Ultimate 버전을 사용해야한다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img2.png)
+<img src=".\img\img2.png">
 
 
 
@@ -31,7 +31,7 @@
 
 해당 과정은 회원가입을 하고, [교육용 JetBrains](https://www.jetbrains.com/shop/eform/students)에 들어가면, 교육용 제품 신청이 가능하며, 해당 과정을 쭉 따라가면 다음과 같은 창과 함께 라이센스가 활성화 된 것을 알 수 있다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img3.png)
+<img src=".\img\img3.png">
 
 우측 상단에 빨간색으로 블러 처리 된 부분은 라이센스 부분으로, 공개할 수 없어 지웠으며, 저 위치에 라이센스 정보가 보이니 그렇게 알면 될듯하다.
 
@@ -43,7 +43,7 @@
 
 위와 같은 방법으로 라이센스를 획득했으면, Ultimate 버전을 다운받으면 된다. 설치파일이 하나 다운로드 될 텐데, 이를 설치할때, 이와 같이 설정을 하고 가겠다. 
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img4.PNG)
+<img src=".\img\img4.PNG">
 
 이후 쭉 다음 버튼을 눌러서 설치를 완료하면 된다.
 
@@ -51,7 +51,7 @@
 
 그럼 이와 같이 설치가 완료된다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img5.PNG)
+<img src=".\img\img5.PNG">
 
 
 
@@ -61,13 +61,13 @@
 
 이제 설치된 IntelliJ IDEA를 실행시키면, 아래와 같이 라이센스 인증을 하라고 나온다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img6.PNG)
+<img src=".\img\img6.PNG">
 
 
 
 그럼 이제 JB Account, 즉 아까 가입했던 JET BRAINS에 파란색 버튼을 눌러 로그인하고, 라이센스 활성화를 하면 다음과 같이 활성화가 완료된다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img7.PNG)
+<img src=".\img\img7.PNG">
 
 
 
@@ -75,19 +75,19 @@
 
 그럼 이제 다음과 같은 화면이 나올텐데, 여기서 New Project를 눌러주면 된다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img8.png)
+<img src=".\img\img8.png">
 
 
 
 그럼 다음과 같은 창이 나오는데, 
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img9.png)
+<img src=".\img\img9.png">
 
 
 
 위의 빨간 네모 친 Project SDK 버튼을 눌러 Download JDK를 눌러주면 된다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img10.PNG)
+<img src=".\img\img10.PNG">
 
 
 
@@ -97,7 +97,7 @@
 
 이후 다음 버튼을 계속 눌러주다가, 아래 화면에서 프로젝트 이름과 경로, 기본 패키지 설정을 해주면 자바를 사용하는데 있어 기본 설정은 끝이다.
 
-![](C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img12.PNG)
+<img src=".\img\img12.PNG">
 
 
 
