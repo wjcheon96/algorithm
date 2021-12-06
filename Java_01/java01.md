@@ -15,7 +15,7 @@
 
 해당 프로그램은 JET BRAINS 사의 IntelliJ IDEA를 사용하기에, [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)로 들어가서 다운로드 버튼을 누를시 다음과 같은 화면이 나온다.
 
-<img src="C:\Users\wjche\OneDrive\바탕 화면\Java\Java_01\img\img1.PNG" style="zoom:75%;" />
+<img src=".\img\img1.PNG" style="zoom:75%;" />
 
 
 
