@@ -21,7 +21,7 @@
 
 아래와 같이 두개의 버전이 나오는데, 나는 Spring, Java EE, JS, HTML, CSS, DB tools 등을 사용해야 하기에, Ultimate 버전을 사용해야한다.
 
-![](.\img\img2.png)
+<img src=".\img\img2.png">
 
 
 
