@@ -1,8 +1,11 @@
+import java.util.Scanner;
+
 public class Main{
-    public static void main(String[] args){
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
 
-        int result= -8>>>3;
-        System.out.println(result);
+        int num;
+        num = sc.nextInt();
+        System.out.println("숫자는 = " + num);
     }
-
 }
