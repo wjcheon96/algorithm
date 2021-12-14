@@ -11,5 +11,6 @@ public class parsing_num{
             a = Integer.parseInt(num[i])*10000*1/(int)(Math.pow(10,i));
             System.out.println("[" + a + "]");
         }
+
     }
 }
