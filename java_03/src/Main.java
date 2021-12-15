@@ -7,5 +7,6 @@ public class Main{
         int num;
         num = sc.nextInt();
         System.out.println("숫자는 = " + num);
+
     }
 }
