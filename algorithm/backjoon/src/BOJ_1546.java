@@ -5,20 +5,22 @@ public class BOJ_1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int total = 0;
+        int[] score = new int[n];
+        int i;
         int max = 0;
-        int score;
-        for (int i = 0; i < n; ++i) {
-            score = sc.nextInt();
-            total += score;
-            if (score > max) {
-                max = score;
+        double total = 0;
+        for (i = 0; i < n; i++) {
+            score[i] = sc.nextInt();
+            if (max <= score[i]) {
+                max = score[i];
             }
         }
-        sc.close();
+        for (i = 0; i < n; i++) {
+            double temp;
+            temp = ((double)score[i] / max) * 100;
+            total = temp + total;
+        }
 
-        double avg = 0;
-        avg = 100.0 * total / max / n;
-        System.out.printf("%.2f", avg);
+        System.out.println(total / n);
     }
 }
